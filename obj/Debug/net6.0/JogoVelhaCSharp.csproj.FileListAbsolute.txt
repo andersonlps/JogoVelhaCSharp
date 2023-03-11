@@ -1,0 +1,15 @@
+C:\Users\ander\workspace\JogoVelhaCSharp\bin\Debug\net6.0\JogoVelhaCSharp.exe
+C:\Users\ander\workspace\JogoVelhaCSharp\bin\Debug\net6.0\JogoVelhaCSharp.deps.json
+C:\Users\ander\workspace\JogoVelhaCSharp\bin\Debug\net6.0\JogoVelhaCSharp.runtimeconfig.json
+C:\Users\ander\workspace\JogoVelhaCSharp\bin\Debug\net6.0\JogoVelhaCSharp.dll
+C:\Users\ander\workspace\JogoVelhaCSharp\bin\Debug\net6.0\JogoVelhaCSharp.pdb
+C:\Users\ander\workspace\JogoVelhaCSharp\obj\Debug\net6.0\JogoVelhaCSharp.csproj.AssemblyReference.cache
+C:\Users\ander\workspace\JogoVelhaCSharp\obj\Debug\net6.0\JogoVelhaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\workspace\JogoVelhaCSharp\obj\Debug\net6.0\JogoVelhaCSharp.AssemblyInfoInputs.cache
+C:\Users\ander\workspace\JogoVelhaCSharp\obj\Debug\net6.0\JogoVelhaCSharp.AssemblyInfo.cs
+C:\Users\ander\workspace\JogoVelhaCSharp\obj\Debug\net6.0\JogoVelhaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ander\workspace\JogoVelhaCSharp\obj\Debug\net6.0\JogoVelhaCSharp.dll
+C:\Users\ander\workspace\JogoVelhaCSharp\obj\Debug\net6.0\refint\JogoVelhaCSharp.dll
+C:\Users\ander\workspace\JogoVelhaCSharp\obj\Debug\net6.0\JogoVelhaCSharp.pdb
+C:\Users\ander\workspace\JogoVelhaCSharp\obj\Debug\net6.0\JogoVelhaCSharp.genruntimeconfig.cache
+C:\Users\ander\workspace\JogoVelhaCSharp\obj\Debug\net6.0\ref\JogoVelhaCSharp.dll
